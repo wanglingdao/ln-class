@@ -13,7 +13,7 @@ $ spm install ln-class --save
 ## 使用
 
 ```js
-var ln-class = require('ln-class');
+var Class = require('ln-class');
 // use ln-class
 ```
 ## 开发
